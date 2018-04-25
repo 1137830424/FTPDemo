@@ -1,0 +1,4 @@
+#Wed Apr 25 16:32:47 CST 2018
+base.0=C\:\\Users\\Administrator\\Desktop\\FTPDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+renamed.0=classes.dex
+file.0=C\:\\Users\\Administrator\\Desktop\\FTPDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1\\classes.dex
